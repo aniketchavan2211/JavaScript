@@ -1,19 +1,21 @@
 ## Adding Two Numbers
 
- - static [Fixed value]
- - dynamic [Take User input]
+- static [Fixed value]
+- dynamic [Take User input]
 
-### static 
+### static
+
 ```js
 let a = 5;
 let b = 6;
 
 var c = a + b;
 
-console.log("The sum of "+a+" and "+b+" is "+c);
+console.log("The sum of " + a + " and " + b + " is " + c);
 ```
 
 ### dynamic
+
 ```js
 let a = prompt("Please enter first number","");
 let b = prompt("Please enter second number,"";
